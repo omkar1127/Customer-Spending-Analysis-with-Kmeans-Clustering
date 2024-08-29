@@ -12,5 +12,5 @@ identify distinct customer segments based on their behavior, preferences, or spe
 • Elbow Method - To find ideal numbers of Cluster
 
 # Result
-<img src = >
+![Screenshot 2024-08-29 200510](https://github.com/user-attachments/assets/2e754848-027b-4379-9420-19ac786157c4)
 
